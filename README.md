@@ -7,3 +7,4 @@ I hope both to learn the algorithms and to practice various programming language
 | Name | Language | Description |
 |:-----------|:-------------|:-------------|
 |[Shunting-Yard Algorithm](./code/ShuntingYard.py) | Python | An implementation of Dijkstra's shunting-yard algorithm for converting infix expression to postfix expression|
+|[Knuth-Morris-Pratt Algorithm](./code/kmp.go) | Go | An implementation of the Knuth-Morris-Pratt algorithm for fast string matching.|
